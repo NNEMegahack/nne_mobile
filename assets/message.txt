@@ -1,0 +1,25 @@
+{
+    "barcode_number": "6923520225224",
+    "barcode_type": "EAN",
+    "product_name": "Edifier Bluetooth Over Ear Wireless Headphone - Black (W800BT)",
+    "category": "Electronics > Audio > Audio Components > Headphones & Headsets",
+    "manufacturer": "Edifier",
+    "description": "The Edifier Bluetooth Over Ear Wireless Headphones are a set of impressive wireless headphones with lightweight frame that makes sure you enjoy a full day of listening.  \t \t\t40mm drivers for detailed and powerful sound \t\tBluetooth v4.0 and wired feature \t\tLightweight and comfortable \t\t35 hours of in-use battery \t\tIncludes 3.5mm to 3.5mm connector \t  \tThe Edifier Bluetooth Over Ear Wireless Headphones come with 40mm neodymium magnet drivers that drive amazing bass tones to your ear. Around-the-ear design has a comfortable fit made from breathable high elastic sponge and faux leather cover. The closed back design also helps with reducing outside noise and keeping your sound in.  \tOn-ear controls  \tOn-ear controls let you adjust the volume accordingly. Reach a comfortable level of volume without having to reach for your connecting device. Easily pause and resume audio at the push of a button.  \tWireless and wired connection  \tUse the 3.5mm to 3.5mm connector to change the W800BT to a wired set of headphones. This feature is incredibly useful when the battery in your headphones is empty. The headphones can be charged through the included USB cable.",
+    "images": "https://images.barcodelookup.com/15968/159686900-1.jpg",
+    "stores": [
+      {
+        "store_name": "Kogan",
+        "store_price": "45.00",
+        "product_url": "https://www.kogan.com/au/buy/edifier-bluetooth-over-ear-wireless-headphone-black-w800bt-edifier/",
+        "currency_code": "USD",
+        "currency_symbol": "$"
+      },
+      {
+        "store_name": "Kogan Australia",
+        "store_price": "45.00",
+        "product_url": "https://www.kogan.com/au/buy/edifier-bluetooth-over-ear-wireless-headphone-black-w800bt-edifier/",
+        "currency_code": "USD",
+        "currency_symbol": "$"
+      }
+    ]
+}

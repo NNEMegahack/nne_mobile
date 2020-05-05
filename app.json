@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nne_mobile",
-    "slug": "nne_mobile",
+    "name": "anuncialize",
+    "slug": "anuncialize",
     "platforms": [
       "ios",
       "android",
@@ -12,8 +12,8 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#FF404A"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/NNEMegahack/nne_mobile"
   }
 }
