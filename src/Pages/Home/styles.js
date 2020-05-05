@@ -46,7 +46,7 @@ export default StyleSheet.create({
   },
   productInfo: {
     flexDirection: 'column',
-    marginLeft: 10,
+    paddingHorizontal: 20,
   },
   productName: {
     fontSize: 16,

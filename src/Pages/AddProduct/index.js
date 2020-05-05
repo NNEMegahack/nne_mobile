@@ -47,7 +47,14 @@ export default function AddProduct() {
       && productInfo.category
       && productInfo.description
       && productInfo.price) {
-      await api.post('products', productInfo);
+      const {
+        barcode_number, product_name, category, description, price,
+      } = productInfo;
+
+      const product = {
+        barcode_number, product_name, category, description, price,
+      };
+      await api.post('products', product);
       navigation.navigate('Home');
     }
   };
@@ -224,14 +231,14 @@ export default function AddProduct() {
                   </Text>
                   <TextInput
                     style={[styles.inputBarCode, { width: '50%', paddingLeft: 40 }]}
-                    value={productInfo.price ? parseFloat(productInfo.price).toFixed(2) : ''}
+                    value={productInfo.price ? String(productInfo.price) : ''}
                     underlineColorAndroid="transparent"
                     placeholder="Preço"
                     keyboardType="numeric"
                     onChangeText={(text) => {
                       setProductInfo({
                         ...productInfo,
-                        price: parseFloat(text),
+                        price: text,
                       });
                     }}
                     onSubmitEditing={() => {}}
