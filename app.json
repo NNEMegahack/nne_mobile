@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "anuncialize",
+    "name": "Anuncialize",
     "slug": "anuncialize",
     "platforms": [
       "ios",
@@ -24,7 +24,8 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "",
-    "githubUrl": "https://github.com/NNEMegahack/nne_mobile"
+    "description": "O Anuncialize é um projeto focado em atacar a raiz do problema e beneficiar tanto o vendedor que usa nosso produto, quanto o consumidor final.\n\nNivelamos a qualidade da entrega de descrição do produto por parte do vendedor, melhorando a experiência do consumidor ao ter contato com o produto. Otimização na produção de anúncios, gerando leads qualificados. Assim, o vendedor consegue aplicar o funil de vendas com mais efetividade. Com isso, é garantido ao cliente final mais facilidade de busca do produto na opção desejada, além de obter mais informação sobre o sua futura compra. O que facilita a tomada de decisão do cliente e a gestão fluida do processo de venda do vendedor.",
+    "githubUrl": "https://github.com/NNEMegahack/nne_mobile",
+    "privacy": "public"
   }
 }
